@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/petanon/Quran-non/issues"
   },
-  "homepage": "https://github.com/petanon/Quran-non#readme"
+  "homepage": "https://github.com/petanon/Quran-non#readme",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  }
 }
