@@ -1,0 +1,29 @@
+{
+  "name": "quran-app",
+  "version": "1.0.0",
+  "description": "a desktop app that you can use it to read or listen to quran",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petanon/Quran-non.git"
+  },
+  "keywords": [
+    "quran",
+    "electron",
+    "desktop",
+    "read",
+    "listen"
+  ],
+  "author": "petanon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petanon/Quran-non/issues"
+  },
+  "homepage": "https://github.com/petanon/Quran-non#readme",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  }
+}

@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Changa;
+    src: url('../fonts/Changa-VariableFont_wght.ttf')
+}
+
+body {
+    background: #032604;
+    -webkit-app-region: drag;
+}
+
+div#logo {
+    display: flex;
+    justify-content: center;
+}
+
+#logo img{
+    width: 150px;
+    height: 150px;
+}
+
+#title {
+    color: #0DAB76;
+    text-align: center;
+    font-family: Changa;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 251;
+    line-height: normal;
+}
